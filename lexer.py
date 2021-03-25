@@ -89,7 +89,3 @@ def lex(j_string: str):
     
     return tokens
             
-
-
-if __name__ == "__main__":
-    print(lex('{"name": false}'))
